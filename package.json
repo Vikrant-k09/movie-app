@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Vikrant-k09.github.io/rect-gh-pages/",
+  "homepage": "https://Vikrant-k09.github.io/movie-app/",
   "name": "movie-land",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": " vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "build": " vite build",
     "test": " echo \" Error: no test specified\" && exit 1",
     "eject": " vite eject",
