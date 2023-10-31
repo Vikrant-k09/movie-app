@@ -39,7 +39,7 @@ function App() {
                 </div>
             <div>
             <br></br>
-                <img src="/image.jpg" alt="REEL" width={400} height={150}/>
+                <img src="../../public/image.jpg" alt="REEL" width={400} height={150}/>
             </div>
                 
             
